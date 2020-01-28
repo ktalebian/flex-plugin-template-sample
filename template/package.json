@@ -19,6 +19,7 @@
       "core-js": "^2.6.5",
       "craco-config-flex-plugin": "{{cracoConfigVersion}}",
       "flex-plugin": "{{flexPluginVersion}}",
+      "flex-plugin-scripts": "^3.3.7",
       "lodash": "^4",
       "react": "^16.8.6",
       "react-dom": "^16.8.6",
