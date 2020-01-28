@@ -19,7 +19,11 @@
       "test": "flex-plugin test --env=jsdom"
     },
     "devDependencies": {
-      "@twilio/flex-ui": "{{flexSdkVersion}}"
+      "@twilio/flex-ui": "{{flexSdkVersion}}",
+      "babel-polyfill": "^6.26.0",
+      "enzyme": "^3.10.0",
+      "enzyme-adapter-react-16": "^1.14.0",
+      "rimraf": "^3.0.0"
     },
     "dependencies": {
       "@craco/craco": "^5.0.2",
