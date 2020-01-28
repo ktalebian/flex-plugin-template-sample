@@ -26,15 +26,14 @@
       "rimraf": "^3.0.0"
     },
     "dependencies": {
-      "@craco/craco": "^5.0.2",
       "core-js": "^2.6.5",
       "craco-config-flex-plugin": "{{cracoConfigVersion}}",
       "flex-plugin": "{{flexPluginVersion}}",
       "flex-plugin-scripts": "^3.3.7",
       "lodash": "^4",
-      "react": "^16.8.6",
-      "react-dom": "^16.8.6",
-      "react-scripts": "^3.0.0"
+      "react": "16.5.2",
+      "react-dom": "16.5.2",
+      "react-scripts": "3.3.0"
     },
     "browserslist": {
       "production": [
